@@ -1,2 +1,2 @@
 # demo-delta
-this is a practice repo..
+this is a practice repo
